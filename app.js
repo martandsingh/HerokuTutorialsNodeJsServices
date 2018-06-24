@@ -25,7 +25,7 @@ const News = require('./models/newsModel');
 const Plan = require('./models/planModel');
 const PlanDetail = require('./models/planDetailModel');
 //mongodb connection. admin is the name of database
-const db = mongoose.connect('url-mongo-db-url');
+const db = mongoose.connect('mongodb://cstreckadmin:Myapple01@ds245680.mlab.com:45680/db_cstreck);
 
 //body parse basically read your request and if there is some json then it puts in your request body
 const bodyParser  = require('body-parser');
