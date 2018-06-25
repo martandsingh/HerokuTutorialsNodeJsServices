@@ -1,7 +1,7 @@
 'Step Wise Step Tutorial
 
 
-[![Step Wise Step Tutorials](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=jqrkhxoP4bU)
+[![Step Wise Step Tutorials](https://img.youtube.com/vi/jqrkhxoP4bU/0.jpg)](https://www.youtube.com/watch?v=jqrkhxoP4bU)
 What is Heroku?
 Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud
 
